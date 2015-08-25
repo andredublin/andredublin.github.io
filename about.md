@@ -1,17 +1,17 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Hello there its seems you have stumbled upon my corner of the internet.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+First off a little about me, since you know, this is an about page...
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* I am a software engineer ( duh! ).
+* I used to be a chef ( sous chef that is ).
+* I build for the web, mobile, and game platforms.
+* I dabble in a variety of programming and scripting languages.
+* I also dig network programming and distributed systems.
+* I enjoy teaching and talking about programming and software architecture design to others.
+* And learning something new.

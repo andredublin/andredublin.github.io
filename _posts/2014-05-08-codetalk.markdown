@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Code Talk Python vs. PHP vs. Ruby"
+date: 2014-05-08
+comments: true
+categories: talks
+image: /assets/images/cover.jpg
+---
+
+I was invited to give PHP a fighting chance at the Charleston Digital Corridor CODEtalk forum. Check out the video [here](http://vimeo.com/93199441).
+
