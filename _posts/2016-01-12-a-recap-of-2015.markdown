@@ -21,16 +21,39 @@ A recap of things that I've discovered, learned, read, met, etc. in 2015 in no p
 * [Build 2015 | Channel 9 Service Fabric Session](https://channel9.msdn.com/Events/Build/2015?sort=sequential&direction=desc&term=Service+Fabric#theSessions) - Researching the new service fabric distributed systems for work.
 * [Volatility-Based Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw) - a coworker introduced me to Juval Lowy's software architecture design, worth the watch.
 
+#### Programming languages I've hacked on last year
+JavaScript, FSharp, Go
+
+#### Programming languages used for work-related projects last year
+CSharp, JavaScript, FSharp, TypeScript
+
 #### Programming languages that I hope to explore this year
 * [Idris](http://www.idris-lang.org/) - Just picked up Type Driven Development in Idris!
-* [Go](https://golang.org/) - I explored go a while back, but now a fellow software engineer acquaintance wishes to do some projects in go.
-* [F#](http://fsharp.org/) - Honestly I've been playing with F# for the past six months, and I hope to do more open source contributions this year.
+* [Go](https://golang.org/) - I explored GO a while back, but now a fellow software engineer acquaintance wishes to do some projects in go.
+* [F#](http://fsharp.org/) - Honestly I've been playing with F# for the past eight months, and I hope to do more open source contributions this year.
 
 #### Papers discovered (and read)
 * [In Search of an Understandable Consensus Algorithm](http://ramcloud.stanford.edu/raft.pdf) - Actually read this a while back, but is a worthy of mention here for those that wish to understand the internals of distributed systems without losing their mind.
 * [Managing Technical Debt with the SQALE Method](http://www.sqale.org/wp-content/uploads/2013/01/IEEE-SW-Managing-TD-with-SQALE-Accepted-version.pdf) - excellent read on how to analyze and quantify your teams technical debt.
 
+#### Community efforts
+* [CharlestonJS](http://www.meetup.com/CharlestonJS/) - I've recently taken over as head of the CharlestonJS meetup group, this couldn't be possible without the help of [The Iron Yard - Charleston](https://www.theironyard.com/locations/charleston.html)
+* [CODETalks 2015](https://vimeo.com/144107408) - My presentation of Juval Lowry's volatility based decomposition.  This was a great experience and I hope to be back again in the future.
+* [Charleston Teck Slack](https://charlestontechslack.herokuapp.com/) - I joined what's possibly the best thing to happen to the Charleston tech scene.
+
+#### Music discovered
+* [Mulatu Astaqe](https://www.youtube.com/watch?v=sLO34NeyTDk&list=RDsLO34NeyTDk) - Ethiopian music is amazing! Check it out!
+
+#### Games discovered
+* [The Long Dark](http://hinterlandgames.com/) - I've been playing survival games for a bit, and this one honestly captures the extreme pressures of surviving in the wilderness.
+
+#### Etc
+* [Andres Bees](https://andresbees.wordpress.com/) - I've become an amatuer beekeeping and decided to start a blog to track my progress and learn from my mistakes.
+
 #### Plans for 2016
-* Contribute to the visual fsharp power tools
-* Write some type providers in fsharp
-* Discover some new music
+* Contribute to the visual Fsharp power tools.
+* Write some type providers in Fsharp.
+* Write some Go.
+* Discover some new music.
+* Play guitar more.
+* Play my [berimbau](https://en.wikipedia.org/wiki/Berimbau) more.

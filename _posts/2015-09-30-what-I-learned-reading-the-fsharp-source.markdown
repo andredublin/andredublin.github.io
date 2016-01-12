@@ -3,6 +3,7 @@ layout: post
 title:  "What I Learned Reading the FSharp Source Part One"
 date:   2015-09-30
 categories: fsharp .net
+comments: true
 image: /assets/images/cover.jpg
 ---
 As part of my learning experience into the F# language, I’ve taken the time to begin reading through parts of the source code that catches my eye to gain a stronger foothold and understanding of the language that I would usually skim over when reading the MSDN docs.  The nice thing about reading the source code is that they provide tests to describe the functionality.  So most of my time will be spent exploring the tests, some of the source code, and MSDN documentation. Lets begin!
