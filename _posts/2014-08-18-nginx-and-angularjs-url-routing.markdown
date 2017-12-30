@@ -3,7 +3,6 @@ layout: post
 title: "Nginx and Angular url routing"
 date: 2014-08-18
 categories: javascript
-comments: true
 image: /assets/images/cover.jpg
 ---
 
@@ -24,3 +23,5 @@ Well Nginx gets you part of the way there with query strings but not nested rout
 In you Angular application entry point file, usually index.html. Inside the head tag section place this tag, ```<base href="/">```
 
 This will allow Angular to handle all route request properly.
+
+## Comments

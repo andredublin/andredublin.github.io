@@ -2,7 +2,6 @@
 layout: post
 title: "A recap of 2015"
 date: 2016-01-12
-comments: true
 categories: recap
 image: /assets/images/cover.jpg
 ---
@@ -57,3 +56,5 @@ CSharp, JavaScript, FSharp, TypeScript
 * Discover some new music.
 * Play guitar more.
 * Play my [berimbau](https://en.wikipedia.org/wiki/Berimbau) more.
+
+## Comments

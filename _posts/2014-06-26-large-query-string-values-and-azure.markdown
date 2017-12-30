@@ -2,7 +2,6 @@
 layout: post
 title: "Large query string values and Azure"
 date: 2014-06-26
-comments: true
 categories: .net
 ---
 
@@ -15,3 +14,5 @@ Unfortunately many answers to this problem fail to address when working on an az
 {% gist andredublin/802d5c0596e2a3275fbe %}
 
 The best practice is to limit the maxQueryString size as much as possible, to avoid any injection attacks. You can give a value based on your requirements, but keep in mind that alllowing long query strings is a potential security risk and bad design.
+
+## Comments

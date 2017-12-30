@@ -2,7 +2,6 @@
 layout: post
 title: "Docker, CentOS, and Aerospike DB"
 date: 2014-07-02
-comments: true
 categories: architecture
 image: /assets/images/cover.jpg
 ---
@@ -24,3 +23,5 @@ But those final two commands will help resolve this issue.  If you notice that t
 Now CentOS recommends that when you require dependencies from that repository to only enable it when you can to pick the exact package that you want to use, vs. enabling it in your ```/etc/yum.repos.d/``` since it is not part of the CentOS upstream distribution.  So consider this fix to be experimental until the updated base image is released.
 
 I plan on following up with a demostration of an Aerospike cluster using containers so stay tuned.
+
+## Comments

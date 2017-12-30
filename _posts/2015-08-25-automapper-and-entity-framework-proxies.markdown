@@ -3,7 +3,6 @@ layout: post
 title: "Automapper and Entity Framework Proxies"
 date: 2015-08-25
 categories: .net
-comments: true
 image: /assets/images/cover.jpg
 ---
 
@@ -20,3 +19,5 @@ Now I could go and call the static Mapper class and define the types of the obje
 But this isn’t a great way of enabling these mappings, plus its a lot of typing, so I created a helper method that wraps this logic and makes use of generics types instead of using typeof as parameters of the method:
 
 {% gist andredublin/90340f0a9c5d51d1dd2e %}
+
+## Comments

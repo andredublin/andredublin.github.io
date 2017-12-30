@@ -74,6 +74,4 @@ We see the FSharpFunc is invoked to update the mutable state.
 
 Well that's it for part one of my exploration of the fsharp source code.  Please let me know if I missed anything interesting or explanations within my current search.
 
-Comments can be left on [hackernews](https://news.ycombinator.com/item?id=10315733).
-
-Thanks to [poizan42](https://news.ycombinator.com/user?id=poizan42) for the constructive feedback.
+## Comments
