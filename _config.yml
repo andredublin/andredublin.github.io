@@ -4,7 +4,7 @@ highlighter: rouge
 # Site settings
 title: "Brain Droppings"
 description: > # this means to ignore newlines until "email:"
-   Thoughts,examples, and discoveries in software development
+   Thoughts, examples, and discoveries in software development
 
 email: 81dublin@gmail.com
 #blog logo
