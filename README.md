@@ -8,7 +8,7 @@ As an experiment, all comments for a particular post are kept as part of the pos
 
 If you wish to comment on a particular post, send me a pull request for that post. If you're in doubt about the format, see below.
 
-    ### [Author Name](http://google.com)
+    ### [Author Name](http://your-social-site.com)
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
