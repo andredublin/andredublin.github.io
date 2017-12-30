@@ -11,6 +11,7 @@ If you wish to comment on a particular post, send me a pull request for that pos
 ### [Author Name](http://google.com)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 ---
 
 Link in for the author name is optional
